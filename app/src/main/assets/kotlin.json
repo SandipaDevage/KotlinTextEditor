@@ -1,0 +1,10 @@
+{
+  "keywords": ["fun", "class", "object", "val", "var", "if", "else", "when", "for", "while", "do", "return"],
+  "types": ["Int", "String", "Float", "Double", "Boolean", "Char", "Long", "Short", "Any", "Unit"],
+  "comments": {
+    "line": "//",
+    "blockStart": "/*",
+    "blockEnd": "*/"
+  },
+  "strings": "\""
+}
